@@ -1,9 +1,5 @@
 ---
-title:  تکه‌هایی از یک کل منسجم 
+title: Tekehaei Az Kol Monsajem
 categories: [Novel,Fiction]
-tags: [fiction,iran,armenian]
+tags: [novel,japanese,fiction]
 ---
-
-
-بچه مان باید بزرگ شود
-باید با تنهایی کنار بیاریم
