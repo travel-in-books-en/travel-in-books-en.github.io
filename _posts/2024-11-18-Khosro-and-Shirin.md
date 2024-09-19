@@ -1,13 +1,28 @@
 ---
-title: Khosro And Shirin
-categories: [story,poetry]
-tags: [Iran,poetry,classic,Persian]
+title:   خسرو و شیرین از نظامی
+categories: [شعر,داستان]
+tags: [فارسی,ایران,شعر,کلاسیک]
+toc: true
 ---
 
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
-| My Evaluation | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10  |
-        
+
+| نام اثر | خسرو و شیرین |
+| نویسنده | نظامی |
+| سال چاپ | 1180 |
+| کشور | ایران |
+| ژانر | شعر کلاسیک |
+| امتیاز | ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10 |
+
+
+
+![Khosro and Shirin](KhosroShirin.png)
+
+### شخصیت ها
+- شخصیت اول: پدر خانواده
+- شخصیت دوم: مادر خانواده
+
+
+### نظر شخصی
+
+
+

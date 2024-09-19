@@ -1,13 +1,9 @@
 ---
-title: Jamalzade Short Stories
-categories: [fiction literature,short story]
-tags: [Iran,satire,short story]
+title: داستان‌های کوتاه جمالزاده
+categories: [ادبیات داستانی,داستان کوتاه]
+tags: [طنز,ایران,داستان کوتاه]
+toc: true
 ---
 
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
-| My Evaluation | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10  |
-        
+### فارسی شکر است
+- به نظر خیلی‌ها اولین داستان کوتاه به سبک غربی و زبان فارسی است.
