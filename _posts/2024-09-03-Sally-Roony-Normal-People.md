@@ -1,12 +1,5 @@
 ---
 title: Sally Roony Normal People
-categories: [romance novel,fiction literature]
-tags: [2018,story,⭐☆☆☆☆☆☆☆☆☆ 1/10,Ireland,Graham Greene]
+categories: [fiction literature,romance novel]
+tags: [Graham Greene,Ireland,⭐☆☆☆☆☆☆☆☆☆ 1/10,story,2018]
 ---
-        
-| Title | tt |
-| Author | tt  |
-| Publication Date | tt   |
-| Country | tt |
-| Genre | tt  |
-        

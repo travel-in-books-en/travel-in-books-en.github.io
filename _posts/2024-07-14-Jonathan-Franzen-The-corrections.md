@@ -1,12 +1,5 @@
 ---
 title: Jonathan Franzen The Corrections
 categories: [novel,fiction literature]
-tags: [2001,Jonathan Franzen,story,⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 10/10,America]
+tags: [Jonathan Franzen,2001,story,America,⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 10/10]
 ---
-        
-| Title | tt |
-| Author | tt  |
-| Publication Date | tt   |
-| Country | tt |
-| Genre | tt  |
-        

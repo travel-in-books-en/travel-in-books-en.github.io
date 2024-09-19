@@ -1,12 +1,5 @@
 ---
 title: Haruki Murakami The Wind Up Bird Chronicle
-categories: [fiction literature,fantasy novel]
-tags: [Japan,low fantasy,Murakami,story,1994,1995,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10]
+categories: [fantasy novel,fiction literature]
+tags: [1994,Japan,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Murakami,1995,story,low fantasy]
 ---
-        
-| Title | tt |
-| Author | tt  |
-| Publication Date | tt   |
-| Country | tt |
-| Genre | tt  |
-        

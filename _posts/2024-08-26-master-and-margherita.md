@@ -1,12 +1,5 @@
 ---
 title: Master And Margherita
-categories: [fiction literature,fantasy novel]
-tags: [story,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,1967,Soroush Rohbakhsh’s suggestion,Bulgakov,Russia]
+categories: [fantasy novel,fiction literature]
+tags: [Soroush Rohbakhsh’s suggestion,1967,Bulgakov,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,story,Russia]
 ---
-        
-| Title | tt |
-| Author | tt  |
-| Publication Date | tt   |
-| Country | tt |
-| Genre | tt  |
-        

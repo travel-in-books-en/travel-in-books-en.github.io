@@ -1,12 +1,5 @@
 ---
 title: Charles Bukowski Pulp
-categories: [postmodern novel,fiction literature]
-tags: [America,novel,comedy,Bukowski]
+categories: [fiction literature,postmodern novel]
+tags: [comedy,novel,Bukowski,America]
 ---
-        
-| Title | tt |
-| Author | tt  |
-| Publication Date | tt   |
-| Country | tt |
-| Genre | tt  |
-        

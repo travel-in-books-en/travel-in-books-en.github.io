@@ -1,12 +1,5 @@
 ---
 title: Matt Haig The Midnight Library
-categories: [fiction literature,fantasy novel]
-tags: [England,short story,⭐⭐⭐⭐☆☆☆☆☆☆ 4/10,story,2020]
+categories: [fantasy novel,fiction literature]
+tags: [short story,2020,England,story,⭐⭐⭐⭐☆☆☆☆☆☆ 4/10]
 ---
-        
-| Title | tt |
-| Author | tt  |
-| Publication Date | tt   |
-| Country | tt |
-| Genre | tt  |
-        

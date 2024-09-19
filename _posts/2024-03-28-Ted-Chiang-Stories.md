@@ -1,12 +1,5 @@
 ---
 title: Ted Chiang Stories
-categories: [science fiction,fiction literature]
-tags: [book club,Ted Chiang,novel,artificial intelligence,America,science fiction]
+categories: [fiction literature,science fiction]
+tags: [artificial intelligence,science fiction,novel,book club,America,Ted Chiang]
 ---
-        
-| Title | tt |
-| Author | tt  |
-| Publication Date | tt   |
-| Country | tt |
-| Genre | tt  |
-        

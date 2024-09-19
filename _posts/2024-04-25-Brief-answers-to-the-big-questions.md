@@ -1,12 +1,5 @@
 ---
 title: Brief Answers To The Big Questions
-categories: [scientific,non-fiction literature]
-tags: [Stephen Hawking,memoir,science,existence,America]
+categories: [non-fiction literature,scientific]
+tags: [science,Stephen Hawking,memoir,existence,America]
 ---
-        
-| Title | tt |
-| Author | tt  |
-| Publication Date | tt   |
-| Country | tt |
-| Genre | tt  |
-        

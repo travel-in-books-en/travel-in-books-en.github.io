@@ -1,12 +1,5 @@
 ---
 title: Jamalzade Short Stories
-categories: [short story,fiction literature]
-tags: [short story,Iran,satire]
+categories: [fiction literature,short story]
+tags: [short story,satire,Iran]
 ---
-        
-| Title | tt |
-| Author | tt  |
-| Publication Date | tt   |
-| Country | tt |
-| Genre | tt  |
-        

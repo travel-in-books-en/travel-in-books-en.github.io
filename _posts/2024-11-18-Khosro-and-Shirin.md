@@ -1,12 +1,5 @@
 ---
 title: Khosro And Shirin
-categories: [story,poetry]
-tags: [Persian,Iran,classic,poetry]
+categories: [poetry,story]
+tags: [classic,poetry,Iran,Persian]
 ---
-        
-| Title | tt |
-| Author | tt  |
-| Publication Date | tt   |
-| Country | tt |
-| Genre | tt  |
-        
