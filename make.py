@@ -103,14 +103,14 @@ categories: {categories}
 tags: {tags}
 ---""".format(title=mytitle,categories=mycategories,tags=mytags)
 
-        str += """
+#         str += """
 
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
-| My Evaluation | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10  |
-        """
-        print(mytitle, mycategories, mytags)
+# | Title |  |
+# | Author |  |
+# | Publication Date |   |
+# | Country |  |
+# | Genre |   |
+# | My Evaluation | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10  |
+#         """
+#         print(mytitle, mycategories, mytags)
         f.write(str)

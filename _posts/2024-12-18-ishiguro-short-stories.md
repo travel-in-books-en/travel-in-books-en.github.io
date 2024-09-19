@@ -1,9 +1,5 @@
 ---
-title: داستان‌های کوتاه ایشیگورو
-categories: [ادبیات داستانی,داستان کوتاه]
-tags: [داستان,انگلیس,داستان کوتاه]
-toc: true
+title: Ishiguro Short Stories
+categories: [Short Stories,Fiction]
+tags: [short stories,fiction]
 ---
-
-### تپه های مالورن
-

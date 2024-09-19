@@ -1,8 +1,5 @@
 ---
-title: داستان کوتاه های مارکز
-categories: [ادبیات داستانی,داستان کوتاه]
-tags: [داستان,کلمبیا,داستان کوتاه]
-toc: true
+title: The House Of Spirits
+categories: []
+tags: []
 ---
-
-
