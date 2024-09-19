@@ -1,7 +1,7 @@
 ---
-title: Ask The Dust
-categories: [fiction literature,novel]
-tags: [story,novel,John Fante,America,Los Angeles]
+title: David Sedaris Short Stories
+categories: [Short Stories,Fiction]
+tags: [short stories,fiction]
 ---
 
 | Title |  |

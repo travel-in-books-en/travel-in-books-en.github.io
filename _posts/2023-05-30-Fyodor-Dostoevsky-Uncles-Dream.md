@@ -1,7 +1,7 @@
 ---
-title: Norwegian Wood
+title: Fyodor Dostoevsky Uncles Dream
 categories: [fiction literature,novel]
-tags: [story,Japan,Norwegian Wood,novel,Murakami]
+tags: [story,novel,Russia,Dostoevsky]
 ---
 
 | Title |  |

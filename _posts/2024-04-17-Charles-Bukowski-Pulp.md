@@ -1,7 +1,7 @@
 ---
-title: Brief Answers To The Big Questions
-categories: [scientific,non-fiction literature]
-tags: [Stephen Hawking,science,memoir,existence,America]
+title: Charles Bukowski Pulp
+categories: [postmodern novel,fiction literature]
+tags: [Bukowski,novel,comedy,America]
 ---
 
 | Title |  |

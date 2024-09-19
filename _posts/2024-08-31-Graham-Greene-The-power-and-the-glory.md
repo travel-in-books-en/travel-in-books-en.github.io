@@ -1,7 +1,7 @@
 ---
-title: The Clown
+title: Graham Greene The Power And The Glory
 categories: [fiction literature,historical novel]
-tags: [Germany,Heinrich Böll,story,novel,clown,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10]
+tags: [Graham Greene,England,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,story,Soroush Rohbakhsh’s suggestion,1940]
 ---
 
 | Title |  |

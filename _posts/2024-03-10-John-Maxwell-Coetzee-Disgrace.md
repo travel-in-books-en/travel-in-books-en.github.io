@@ -1,7 +1,7 @@
 ---
-title: Cheraghha Ra Man Khamoosh Mikonam
+title: John Maxwell Coetzee Disgrace
 categories: [fiction literature,novel]
-tags: [Armenian,story,Zoya Pirzad,Iran,⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10]
+tags: [novel,book club,story,Coetzee,South Africa]
 ---
 
 | Title |  |

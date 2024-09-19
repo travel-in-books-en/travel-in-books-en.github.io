@@ -1,7 +1,7 @@
 ---
-title: Pulp
-categories: [fiction literature,postmodern novel]
-tags: [comedy,America,novel,Bukowski]
+title: Julio Cortazar Short Stories
+categories: [fiction literature,short story]
+tags: [Argentina,story,short story,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10]
 ---
 
 | Title |  |

@@ -1,7 +1,7 @@
 ---
-title: Cheraghha Ra Man Khamoosh Mikonam
+title: Paiz Fasl Akhar Ast
 categories: [fiction literature,novel]
-tags: [Armenian,story,Zoya Pirzad,Iran,⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10]
+tags: [Iran,story]
 ---
 
 | Title |  |

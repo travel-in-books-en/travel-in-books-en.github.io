@@ -18,7 +18,7 @@ def word_to_number(word):
     # Add more as needed
   }
 
-  return gnumbers.get(word.lower(), "Invalid input")  # Returns the number or an error message
+  return numbers.get(word.lower(), "Invalid input")  # Returns the number or an error message
 
 
 mypath = '_posts'

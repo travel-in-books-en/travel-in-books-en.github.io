@@ -1,7 +1,7 @@
 ---
-title: Cheraghha Ra Man Khamoosh Mikonam
+title: The Dutch House
 categories: [fiction literature,novel]
-tags: [Armenian,story,Zoya Pirzad,Iran,⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10]
+tags: [story,novel,The Dutch House,America]
 ---
 
 | Title |  |

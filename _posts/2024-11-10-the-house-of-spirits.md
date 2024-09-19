@@ -1,7 +1,7 @@
 ---
-title: Stories
-categories: [fiction literature,science fiction]
-tags: [Ted Chiang,artificial intelligence,book club,science fiction,novel,America]
+title: The House Of Spirits
+categories: [fiction literature,short story]
+tags: [story,short story,Colombia]
 ---
 
 | Title |  |

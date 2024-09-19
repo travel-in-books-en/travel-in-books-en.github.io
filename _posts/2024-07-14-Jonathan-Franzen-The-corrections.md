@@ -1,7 +1,7 @@
 ---
-title: The Idiot
+title: Jonathan Franzen The Corrections
 categories: [fiction literature,novel]
-tags: [Russia,Dostoevsky,novel,story]
+tags: [2001,Jonathan Franzen,story,America,⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 10/10]
 ---
 
 | Title |  |

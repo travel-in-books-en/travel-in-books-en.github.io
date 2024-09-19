@@ -1,7 +1,7 @@
 ---
-title: Brief Answers To The Big Questions
-categories: [scientific,non-fiction literature]
-tags: [Stephen Hawking,science,memoir,existence,America]
+title: Tekehaei Az Kol Monsajem
+categories: [psychology,non-fiction literature]
+tags: [Iran,scientific]
 ---
 
 | Title |  |

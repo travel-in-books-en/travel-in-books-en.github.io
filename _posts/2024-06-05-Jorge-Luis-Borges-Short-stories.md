@@ -1,7 +1,7 @@
 ---
-title: Brief Answers To The Big Questions
-categories: [scientific,non-fiction literature]
-tags: [Stephen Hawking,science,memoir,existence,America]
+title: Jorge Luis Borges Short Stories
+categories: [fiction literature,short story]
+tags: [Argentina,story,Borges,short story]
 ---
 
 | Title |  |

@@ -1,7 +1,7 @@
 ---
-title: Uncles Dream
-categories: [fiction literature,novel]
-tags: [Russia,Dostoevsky,novel,story]
+title: Somerset Maugham Short Stories
+categories: [Short Stories,Fiction]
+tags: [short stories,fiction]
 ---
 
 | Title |  |

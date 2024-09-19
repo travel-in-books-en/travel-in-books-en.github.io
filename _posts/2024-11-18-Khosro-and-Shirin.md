@@ -1,7 +1,7 @@
 ---
-title: Brief Answers To The Big Questions
-categories: [scientific,non-fiction literature]
-tags: [Stephen Hawking,science,memoir,existence,America]
+title: Khosro And Shirin
+categories: [story,poetry]
+tags: [Iran,poetry,classic,Persian]
 ---
 
 | Title |  |

@@ -1,7 +1,7 @@
 ---
-title: Borges Short Stories
-categories: [Short Stories,Fiction]
-tags: [short stories,fiction]
+title: Haruki Murakami Norwegian Wood
+categories: [fiction literature,novel]
+tags: [novel,Norwegian Wood,Japan,Murakami,story]
 ---
 
 | Title |  |

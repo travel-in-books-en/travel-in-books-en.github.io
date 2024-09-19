@@ -1,7 +1,7 @@
 ---
-title: Cheraghha Ra Man Khamoosh Mikonam
+title: Haruki Murakami Colorless Tsukuru Tazaki
 categories: [fiction literature,novel]
-tags: [Armenian,story,Zoya Pirzad,Iran,⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10]
+tags: [novel,Japan,Murakami,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,story]
 ---
 
 | Title |  |

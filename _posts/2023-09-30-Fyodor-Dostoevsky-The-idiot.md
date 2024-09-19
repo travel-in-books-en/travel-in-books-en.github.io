@@ -1,7 +1,7 @@
 ---
-title: Disgrace
+title: Fyodor Dostoevsky The Idiot
 categories: [fiction literature,novel]
-tags: [story,South Africa,Coetzee,book club,novel]
+tags: [story,novel,Russia,Dostoevsky]
 ---
 
 | Title |  |

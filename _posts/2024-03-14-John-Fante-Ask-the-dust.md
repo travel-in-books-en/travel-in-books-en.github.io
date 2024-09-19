@@ -1,7 +1,7 @@
 ---
-title: Cheraghha Ra Man Khamoosh Mikonam
+title: John Fante Ask The Dust
 categories: [fiction literature,novel]
-tags: [Armenian,story,Zoya Pirzad,Iran,⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10]
+tags: [Los Angeles,novel,story,America,John Fante]
 ---
 
 | Title |  |
