@@ -1,5 +1,12 @@
 ---
 title: Haruki Murakami Colorless Tsukuru Tazaki
-categories: [novel,fiction literature]
-tags: [⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Japan,Murakami,novel,story]
+categories: [fiction literature,novel]
+tags: [⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Murakami,novel,Japan,story]
 ---
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
+        

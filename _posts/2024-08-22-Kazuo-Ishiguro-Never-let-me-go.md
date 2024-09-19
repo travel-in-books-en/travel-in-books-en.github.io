@@ -1,5 +1,12 @@
 ---
 title: Kazuo Ishiguro Never Let Me Go
-categories: [fantasy novel,fiction literature]
-tags: [2005,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Ishiguro,novel,England,story,speculative fiction]
+categories: [fiction literature,fantasy novel]
+tags: [England,speculative fiction,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,2005,novel,Ishiguro,story]
 ---
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
+        

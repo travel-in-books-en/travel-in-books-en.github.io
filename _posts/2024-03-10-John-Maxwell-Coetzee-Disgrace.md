@@ -1,5 +1,12 @@
 ---
 title: John Maxwell Coetzee Disgrace
-categories: [novel,fiction literature]
-tags: [book club,novel,story,South Africa,Coetzee]
+categories: [fiction literature,novel]
+tags: [book club,Coetzee,South Africa,novel,story]
 ---
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
+        

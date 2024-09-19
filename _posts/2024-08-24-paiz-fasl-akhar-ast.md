@@ -1,5 +1,12 @@
 ---
 title: Paiz Fasl Akhar Ast
-categories: [novel,fiction literature]
-tags: [Iran,story]
+categories: [fiction literature,novel]
+tags: [story,Iran]
 ---
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
+        

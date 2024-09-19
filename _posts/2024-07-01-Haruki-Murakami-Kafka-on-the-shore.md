@@ -1,5 +1,12 @@
 ---
 title: Haruki Murakami Kafka On The Shore
-categories: [fantasy novel,fiction literature]
-tags: [Kafka on the Shore,Japan,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,novel,Murakami,story]
+categories: [fiction literature,fantasy novel]
+tags: [⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Murakami,Kafka on the Shore,novel,Japan,story]
 ---
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
+        
