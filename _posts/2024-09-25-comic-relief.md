@@ -1,7 +1,7 @@
 ---
-title: Disgrace
-categories: [fiction literature,novel]
-tags: [story,South Africa,Coetzee,book club,novel]
+title: Comic Relief
+categories: [non-fiction literature,research]
+tags: [comedy,satire]
 ---
 
 | Title |  |

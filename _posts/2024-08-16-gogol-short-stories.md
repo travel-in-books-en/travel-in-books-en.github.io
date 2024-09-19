@@ -1,7 +1,7 @@
 ---
-title: Disgrace
-categories: [fiction literature,novel]
-tags: [story,South Africa,Coetzee,book club,novel]
+title: Gogol Short Stories
+categories: [Short Stories,Fiction]
+tags: [short stories,fiction]
 ---
 
 | Title |  |

@@ -1,7 +1,7 @@
 ---
-title: Disgrace
+title: The Dutch House
 categories: [fiction literature,novel]
-tags: [story,South Africa,Coetzee,book club,novel]
+tags: [The Dutch House,America,novel,story]
 ---
 
 | Title |  |

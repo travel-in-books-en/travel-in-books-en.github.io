@@ -1,7 +1,7 @@
 ---
-title: The Remaining Of The Day
+title: The Power And The Glory
 categories: [fiction literature,historical novel]
-tags: [Ishiguro,1989,story,England,novel,five stars,Soroush Rohbakhsh’s suggestion]
+tags: [story,England,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,1940,Graham Greene,Soroush Rohbakhsh’s suggestion]
 ---
 
 | Title |  |

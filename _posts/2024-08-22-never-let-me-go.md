@@ -1,7 +1,7 @@
 ---
-title: Kafka On The Shore
+title: Never Let Me Go
 categories: [fiction literature,fantasy novel]
-tags: [story,Japan,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Kafka on the Shore,novel,Murakami]
+tags: [Ishiguro,story,England,2005,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,novel,speculative fiction]
 ---
 
 | Title |  |

@@ -1,7 +1,7 @@
 ---
-title: Disgrace
-categories: [fiction literature,novel]
-tags: [story,South Africa,Coetzee,book club,novel]
+title: Khosro And Shirin
+categories: [poetry,story]
+tags: [poetry,Iran,Persian,classic]
 ---
 
 | Title |  |

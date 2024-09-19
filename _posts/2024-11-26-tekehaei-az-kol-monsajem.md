@@ -1,7 +1,7 @@
 ---
-title: Disgrace
-categories: [fiction literature,novel]
-tags: [story,South Africa,Coetzee,book club,novel]
+title: Tekehaei Az Kol Monsajem
+categories: [psychology,non-fiction literature]
+tags: [Iran,scientific]
 ---
 
 | Title |  |

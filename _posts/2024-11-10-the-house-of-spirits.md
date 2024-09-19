@@ -1,7 +1,7 @@
 ---
-title: Disgrace
-categories: [fiction literature,novel]
-tags: [story,South Africa,Coetzee,book club,novel]
+title: The House Of Spirits
+categories: [fiction literature,short story]
+tags: [Colombia,short story,story]
 ---
 
 | Title |  |

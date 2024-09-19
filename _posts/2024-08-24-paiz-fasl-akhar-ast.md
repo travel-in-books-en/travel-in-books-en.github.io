@@ -1,7 +1,7 @@
 ---
-title: Disgrace
+title: Paiz Fasl Akhar Ast
 categories: [fiction literature,novel]
-tags: [story,South Africa,Coetzee,book club,novel]
+tags: [Iran,story]
 ---
 
 | Title |  |

@@ -1,7 +1,7 @@
 ---
-title: Disgrace
-categories: [fiction literature,novel]
-tags: [story,South Africa,Coetzee,book club,novel]
+title: Mrs Dalloway
+categories: [Virginia Woolf,fiction literature,novel]
+tags: [England,story]
 ---
 
 | Title |  |

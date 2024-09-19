@@ -1,7 +1,7 @@
 ---
-title: Kafka On The Shore
+title: Master And Margherita
 categories: [fiction literature,fantasy novel]
-tags: [story,Japan,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Kafka on the Shore,novel,Murakami]
+tags: [1967,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,story,Russia,Bulgakov,Soroush Rohbakhsh’s suggestion]
 ---
 
 | Title |  |

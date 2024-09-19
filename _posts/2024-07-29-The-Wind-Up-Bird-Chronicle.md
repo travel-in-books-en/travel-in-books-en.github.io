@@ -1,7 +1,7 @@
 ---
-title: Kafka On The Shore
+title: The Wind Up Bird Chronicle
 categories: [fiction literature,fantasy novel]
-tags: [story,Japan,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Kafka on the Shore,novel,Murakami]
+tags: [1994,story,Japan,1995,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,low fantasy,Murakami]
 ---
 
 | Title |  |

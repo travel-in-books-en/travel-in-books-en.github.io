@@ -1,7 +1,7 @@
 ---
-title: Disgrace
-categories: [fiction literature,novel]
-tags: [story,South Africa,Coetzee,book club,novel]
+title: Normal People
+categories: [fiction literature,romance novel]
+tags: [Ireland,2018,story,⭐☆☆☆☆☆☆☆☆☆ 1/10,Graham Greene]
 ---
 
 | Title |  |

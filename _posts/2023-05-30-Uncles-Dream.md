@@ -1,7 +1,7 @@
 ---
-title: Disgrace
+title: Uncles Dream
 categories: [fiction literature,novel]
-tags: [story,South Africa,Coetzee,book club,novel]
+tags: [Russia,Dostoevsky,novel,story]
 ---
 
 | Title |  |
