@@ -1,7 +1,7 @@
 ---
 title: Carolin De Robertis Cantoras
-categories: [fiction literature,historical novel]
-tags: [Carolina De Robertis,book club,singers,Uruguay,2019,⭐⭐⭐⭐☆☆☆☆☆☆ 4/10,lesbian,novel,story]
+categories: [historical novel,fiction literature]
+tags: [Uruguay,story,singers,⭐⭐⭐⭐☆☆☆☆☆☆ 4/10,Carolina De Robertis,novel,book club,lesbian]
 ---
         
 | Title | tt |

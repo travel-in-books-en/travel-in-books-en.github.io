@@ -1,7 +1,7 @@
 ---
 title: Khosro And Shirin
-categories: [poetry,story]
-tags: [poetry,Persian,classic,Iran]
+categories: [story,poetry]
+tags: [poetry,classic,Persian,Iran]
 ---
         
 | Title | tt |

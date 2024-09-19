@@ -57,7 +57,7 @@ with open("translation_map.csv", "r") as f:
         d1 = num_of_10*"⭐" + (10 - num_of_10)*"☆" + " " + str(num_of_10)+"/10"
       print(d0)
       print(d1)
-      translations[d0] = d1
+      translations[d0.strip()] = d1.strip()
 
 # print(translations)
 
@@ -86,7 +86,8 @@ for filepath in onlyfiles:
 
     for t in tags:
       if t.strip() in translations:
-        translated_tags.append(translations[t.strip()])
+        if not translations[t.strip()].isnumeric():
+          translated_tags.append(translations[t.strip()])
 
     print(translated_cats)
 

@@ -1,7 +1,7 @@
 ---
 title: The Dutch House
-categories: [fiction literature,novel]
-tags: [novel,America,story,The Dutch House]
+categories: [novel,fiction literature]
+tags: [novel,The Dutch House,America,story]
 ---
         
 | Title | tt |

@@ -1,7 +1,7 @@
 ---
 title: Fyodor Dostoevsky Uncles Dream
-categories: [fiction literature,novel]
-tags: [Russia,novel,Dostoevsky,story]
+categories: [novel,fiction literature]
+tags: [Russia,novel,story,Dostoevsky]
 ---
         
 | Title | tt |

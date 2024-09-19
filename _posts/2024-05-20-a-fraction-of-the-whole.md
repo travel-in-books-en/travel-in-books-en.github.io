@@ -1,7 +1,7 @@
 ---
 title: A Fraction Of The Whole
-categories: [fiction literature,novel]
-tags: [Australia,comedy,story,Steve Toltz]
+categories: [novel,fiction literature]
+tags: [Steve Toltz,comedy,story,Australia]
 ---
         
 | Title | tt |

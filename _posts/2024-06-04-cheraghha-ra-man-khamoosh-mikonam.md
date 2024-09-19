@@ -1,7 +1,7 @@
 ---
 title: Cheraghha Ra Man Khamoosh Mikonam
-categories: [fiction literature,novel]
-tags: [Iran,⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10,Zoya Pirzad,Armenian,story]
+categories: [novel,fiction literature]
+tags: [story,⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10,Zoya Pirzad,Iran,Armenian]
 ---
         
 | Title | tt |

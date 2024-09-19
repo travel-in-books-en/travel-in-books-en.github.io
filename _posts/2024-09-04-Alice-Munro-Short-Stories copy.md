@@ -1,7 +1,7 @@
 ---
 title: Alice Munro Short Stories Copy
 categories: [fiction literature,short story]
-tags: [⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,short story,Canada,2001,story]
+tags: [Canada,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,story,short story]
 ---
         
 | Title | tt |

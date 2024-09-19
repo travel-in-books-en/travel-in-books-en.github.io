@@ -1,6 +1,6 @@
 ---
 title: Comic Relief
-categories: [research,non-fiction literature]
+categories: [non-fiction literature,research]
 tags: [comedy,satire]
 ---
         

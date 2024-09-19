@@ -1,6 +1,6 @@
 ---
 title: Paiz Fasl Akhar Ast
-categories: [fiction literature,novel]
+categories: [novel,fiction literature]
 tags: [story,Iran]
 ---
         

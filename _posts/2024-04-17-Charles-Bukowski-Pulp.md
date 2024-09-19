@@ -1,6 +1,6 @@
 ---
 title: Charles Bukowski Pulp
-categories: [fiction literature,postmodern novel]
+categories: [postmodern novel,fiction literature]
 tags: [novel,comedy,America,Bukowski]
 ---
         

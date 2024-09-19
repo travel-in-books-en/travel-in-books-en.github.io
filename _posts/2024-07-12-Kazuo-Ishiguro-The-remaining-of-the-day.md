@@ -1,7 +1,7 @@
 ---
 title: Kazuo Ishiguro The Remaining Of The Day
-categories: [fiction literature,historical novel]
-tags: [England,five stars,Soroush Rohbakhsh’s suggestion,1989,novel,Ishiguro,story]
+categories: [historical novel,fiction literature]
+tags: [Ishiguro,five stars,story,England,novel,Soroush Rohbakhsh’s suggestion]
 ---
         
 | Title | tt |

@@ -1,7 +1,7 @@
 ---
 title: Julio Cortazar Short Stories
 categories: [fiction literature,short story]
-tags: [⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,short story,story,Argentina]
+tags: [Argentina,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,story,short story]
 ---
         
 | Title | tt |

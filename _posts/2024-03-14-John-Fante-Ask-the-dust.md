@@ -1,7 +1,7 @@
 ---
 title: John Fante Ask The Dust
-categories: [fiction literature,novel]
-tags: [novel,Los Angeles,John Fante,America,story]
+categories: [novel,fiction literature]
+tags: [story,John Fante,novel,Los Angeles,America]
 ---
         
 | Title | tt |

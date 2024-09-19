@@ -1,7 +1,7 @@
 ---
 title: Haruki Murakami 1Q84
-categories: [fiction literature,fantasy novel]
-tags: [⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,Murakami,2010,2009,Japan,story]
+categories: [fantasy novel,fiction literature]
+tags: [Murakami,Japan,story,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10]
 ---
         
 | Title | tt |

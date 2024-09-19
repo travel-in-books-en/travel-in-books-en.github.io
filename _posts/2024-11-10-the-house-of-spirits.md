@@ -1,7 +1,7 @@
 ---
 title: The House Of Spirits
 categories: [fiction literature,short story]
-tags: [Colombia,short story,story]
+tags: [Colombia,story,short story]
 ---
         
 | Title | tt |

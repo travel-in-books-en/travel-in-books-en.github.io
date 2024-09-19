@@ -1,6 +1,6 @@
 ---
 title: Virginia Woolf Mrs Dalloway
-categories: [fiction literature,novel,Virginia Woolf]
+categories: [novel,fiction literature,Virginia Woolf]
 tags: [England,story]
 ---
         
