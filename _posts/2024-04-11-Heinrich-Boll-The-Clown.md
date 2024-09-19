@@ -1,11 +1,12 @@
 ---
 title: Heinrich Boll The Clown
-categories: [fiction literature,historical novel]
-tags: [story,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,clown,novel,Heinrich Böll,Germany]
+categories: [historical novel,fiction literature]
+tags: [Germany,story,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,novel,clown,Heinrich Böll]
 ---
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
         

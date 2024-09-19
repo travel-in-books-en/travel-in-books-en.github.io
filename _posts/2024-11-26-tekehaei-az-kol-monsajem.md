@@ -1,11 +1,12 @@
 ---
 title: Tekehaei Az Kol Monsajem
-categories: [non-fiction literature,psychology]
+categories: [psychology,non-fiction literature]
 tags: [Iran,scientific]
 ---
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
         

@@ -1,11 +1,12 @@
 ---
 title: Haruki Murakami Norwegian Wood
-categories: [fiction literature,novel]
-tags: [story,Murakami,novel,Norwegian Wood,Japan]
+categories: [novel,fiction literature]
+tags: [Japan,Murakami,story,novel,Norwegian Wood]
 ---
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
         

@@ -1,11 +1,12 @@
 ---
 title: Haruki Murakami Short Stories
-categories: [fiction literature,short story]
-tags: [story,short story,Murakami,Japan,⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10]
+categories: [short story,fiction literature]
+tags: [Japan,short story,Murakami,story,⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10]
 ---
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
         

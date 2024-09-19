@@ -1,11 +1,12 @@
 ---
 title: The Shadow Of The Wind
-categories: [fiction literature,novel]
-tags: [story,Spain,novel,book club,classic,Barcelona]
+categories: [novel,fiction literature]
+tags: [Spain,Barcelona,book club,story,novel,classic]
 ---
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
         

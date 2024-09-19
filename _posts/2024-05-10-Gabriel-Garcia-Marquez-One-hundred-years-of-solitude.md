@@ -1,11 +1,12 @@
 ---
 title: Gabriel Garcia Marquez One Hundred Years Of Solitude
-categories: [fiction literature,magical realism novel]
-tags: [story,Gabriel García Márquez,book club,Colombia,Soroush Rohbakhsh’s suggestion,comedy,magical realism]
+categories: [magical realism novel,fiction literature]
+tags: [book club,magical realism,story,Gabriel García Márquez,comedy,Soroush Rohbakhsh’s suggestion,Colombia]
 ---
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
         

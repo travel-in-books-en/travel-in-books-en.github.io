@@ -1,11 +1,12 @@
 ---
 title: A Fraction Of The Whole
-categories: [fiction literature,novel]
-tags: [story,comedy,Australia,Steve Toltz]
+categories: [novel,fiction literature]
+tags: [story,Australia,Steve Toltz,comedy]
 ---
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
         

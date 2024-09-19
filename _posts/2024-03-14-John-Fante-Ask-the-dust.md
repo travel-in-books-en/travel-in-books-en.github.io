@@ -1,11 +1,12 @@
 ---
 title: John Fante Ask The Dust
-categories: [fiction literature,novel]
-tags: [story,novel,John Fante,Los Angeles,America]
+categories: [novel,fiction literature]
+tags: [story,John Fante,novel,Los Angeles,America]
 ---
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
         

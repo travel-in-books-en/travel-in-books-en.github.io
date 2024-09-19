@@ -1,11 +1,12 @@
 ---
 title: Jorge Luis Borges Short Stories
-categories: [fiction literature,short story]
-tags: [story,short story,Argentina,Borges]
+categories: [short story,fiction literature]
+tags: [story,Borges,short story,Argentina]
 ---
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
         

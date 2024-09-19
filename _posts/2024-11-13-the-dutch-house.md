@@ -1,11 +1,12 @@
 ---
 title: The Dutch House
-categories: [fiction literature,novel]
-tags: [story,The Dutch House,America,novel]
+categories: [novel,fiction literature]
+tags: [story,America,novel,The Dutch House]
 ---
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
         

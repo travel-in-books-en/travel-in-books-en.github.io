@@ -1,11 +1,12 @@
 ---
 title: The Girl Who Saved The Sweden King
-categories: [fiction literature,novel]
-tags: [novel,Jonas Jonasson,⭐⭐⭐☆☆☆☆☆☆☆ 3/10,comedy,Sweden]
+categories: [novel,fiction literature]
+tags: [⭐⭐⭐☆☆☆☆☆☆☆ 3/10,Jonas Jonasson,novel,comedy,Sweden]
 ---
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
         

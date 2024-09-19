@@ -1,11 +1,12 @@
 ---
 title: Virginia Woolf Mrs Dalloway
-categories: [fiction literature,Virginia Woolf,novel]
+categories: [novel,Virginia Woolf,fiction literature]
 tags: [story,England]
 ---
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
         

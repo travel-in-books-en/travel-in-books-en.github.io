@@ -1,11 +1,12 @@
 ---
 title: Fyodor Dostoevsky The Idiot
-categories: [fiction literature,novel]
-tags: [story,novel,Dostoevsky,Russia]
+categories: [novel,fiction literature]
+tags: [story,Dostoevsky,novel,Russia]
 ---
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
         

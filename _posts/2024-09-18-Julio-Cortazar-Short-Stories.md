@@ -1,11 +1,12 @@
 ---
 title: Julio Cortazar Short Stories
-categories: [fiction literature,short story]
-tags: [Argentina,short story,story,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10]
+categories: [short story,fiction literature]
+tags: [story,short story,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,Argentina]
 ---
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
         

@@ -104,11 +104,12 @@ tags: {tags}
 ---""".format(title=mytitle,categories=mycategories,tags=mytags)
 
         str += """
-| Title |  |
-| Author |  |
-| Publication Date |   |
-| Country |  |
-| Genre |   |
+        
+| Title | tt |
+| Author | tt  |
+| Publication Date | tt   |
+| Country | tt |
+| Genre | tt  |
         """
 #         print(mytitle, mycategories, mytags)
         f.write(str)
