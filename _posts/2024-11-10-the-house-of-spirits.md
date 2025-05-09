@@ -1,12 +1,8 @@
 ---
-title: The House Of Spirits
-categories: [fiction literature,short story]
-tags: [Colombia,story,short story]
+title: داستان کوتاه های مارکز
+categories: [ادبیات داستانی,داستان کوتاه]
+tags: [داستان,کلمبیا,داستان کوتاه]
+toc: true
 ---
-        
-| Title | tt |
-| Author | tt  |
-| Publication Date | tt   |
-| Country | tt |
-| Genre | tt  |
-        
+
+

@@ -55,8 +55,8 @@ with open("translation_map.csv", "r") as f:
         splitd1 = d1.split("out of")[0].strip()
         num_of_10 = word_to_number(splitd1)
         d1 = num_of_10*"⭐" + (10 - num_of_10)*"☆" + " " + str(num_of_10)+"/10"
-      print(d0)
-      print(d1)
+      #print(d0)
+      #print(d1)
       translations[d0.strip()] = d1.strip()
 
 # print(translations)
@@ -106,12 +106,12 @@ tags: {tags}
 
         str += """
         
-| Title | tt |
+| Title | {title} |
 | Author | tt  |
 | Publication Date | tt   |
 | Country | tt |
 | Genre | tt  |
-        """
+        """.format(title=mytitle)
 #         print(mytitle, mycategories, mytags)
         f.write(str)
         f.close()

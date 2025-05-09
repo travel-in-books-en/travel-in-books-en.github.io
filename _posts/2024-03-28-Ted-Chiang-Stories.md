@@ -1,12 +1,51 @@
 ---
-title: Ted Chiang Stories
-categories: [fiction literature,science fiction]
-tags: [Ted Chiang,artificial intelligence,science fiction,novel,book club,America]
+title: داستان‌ها از تد چیانگ
+categories: [ادبیات داستانی,علمی تخیلی]
+tags: [رمان,علمی تخیلی,هوش مصنوعی,باشگاه کتاب,آمریکا,تد چیانگ]
+toc: true
 ---
-        
-| Title | tt |
-| Author | tt  |
-| Publication Date | tt   |
-| Country | tt |
-| Genre | tt  |
-        
+
+| نام اثر | داستان‌ها |
+| نویسنده | تد چیانگ |
+| سال چاپ | 2002 |
+| کشور | آمریکا |
+| ژانر | علمی تخیلی |
+| امتیاز | ⭐⭐⭐⭐⭐☆☆☆☆☆ 5/10 |
+
+### تاجر و دروازه کیمیاگر
+
+تاجر کیمیاگری که بشارت نام دارد ملاقات می کند. کیمیاگر دروازه عجیبی دارد که سفر در زمان را ممکن می کند. کیمیاگر قصه کسانی می گوید که قبلتر دروازه را تست کرده اند و آینده خود را دیده اند.
+- قصه طناب سازی خوش شانس
+- قصه دوزنده ای که از خود دزدی می کند
+- قصه همسر و معشوقه اش
+
+در آخر تاجر تصمیم میگیرد که خود نیز از طریق دروازه در زمان سفر کند.
+
+
+داستان رو بسیار دوست داشتم. ذهنم درگیر خودش کرد و اینکه چقدر ما توانایی در تغییر گذشته و آینده خود و یا شاید لااقل تصویر و برداشتمو از گذشته و آینده خود داریم. 
+
+### داستان دوم
+
+### داستان سوم: از ما چه انتظاری می رود؟
+[مصاحبه](https://youtu.be/g0ZRQ1ya0qA?t=158)
+
+دستگاهی اختراع شده است که یک ثانیه قبل از کلیک شدنش چشمک می زند. همین جمله کوتاه شاید آدم را به فکر فرو ببرد که اصلا مگه با وجود اراده می شه که همچنین چیزی اتفاق بیافتد. در ویدیویی که لینکش رو گذاشتم می توان صحبت های یک نوروساینتیست رو در مورد آزمایشی مشابه شنید. 
+
+### داستان چهارم
+
+<script src="https://giscus.app/client.js"
+        data-repo="delights-of-vanity/delights-of-vanity.github.io"
+        data-repo-id="R_kgDOKVCjrg"
+        data-category-id="DIC_kwDOKVCjrs4Cen2O"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+
+
+
