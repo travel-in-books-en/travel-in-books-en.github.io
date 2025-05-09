@@ -1,3 +1,4 @@
 ---
 title: The Bastard of Istanbul by Elif Shafak
+tags: [Turkey,Story]
 ---
