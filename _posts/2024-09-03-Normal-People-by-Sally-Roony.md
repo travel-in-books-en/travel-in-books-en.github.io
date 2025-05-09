@@ -1,4 +1,10 @@
 ---
 title: Normal People by Sally Roony
-tags: [⭐☆☆☆☆☆☆☆☆☆ 1/10,Story,Graham Greene,Ireland]
----
+tags: [Ireland,Story,⭐☆☆☆☆☆☆☆☆☆ 1/10,Graham Greene]
+---     
+| Title | Normal People  |
+| Author |  Sally Roony  |
+| Publication Date | 2018   |
+| Country | Ireland |
+| Genre | romance novel  |
+        

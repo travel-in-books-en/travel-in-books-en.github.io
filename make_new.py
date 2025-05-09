@@ -98,13 +98,13 @@ title: {title}
 tags: {tags}
 ---""".format(title=mytitle,categories=mycategories,tags=mytags)
 
-#        str += """     
-# | Title | {title} |
-# | Author | {author}  |
-# | Publication Date | {year}   |
-# | Country | {country} |
-# | Genre | {genre}  |
-#         """.format(title=mytitle[0:mytitle.index("by")],author=mytitle[mytitle.index("by")+2:],year=myyear,country=mycountry,genre=mygenre)
+        str += """     
+| Title | {title} |
+| Author | {author}  |
+| Publication Date | {year}   |
+| Country | {country} |
+| Genre | {genre}  |
+        """.format(title=mytitle[0:mytitle.index("by")],author=mytitle[mytitle.index("by")+2:],year=myyear,country=mycountry,genre=mygenre)
         f.write(str)
       
       

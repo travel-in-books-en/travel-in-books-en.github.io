@@ -1,4 +1,10 @@
 ---
 title: Bunny by Mona Awad
-tags: [⭐⭐⭐⭐☆☆☆☆☆☆ 4/10,Canada,Novel]
----
+tags: [Novel,⭐⭐⭐⭐☆☆☆☆☆☆ 4/10,Canada]
+---     
+| Title | Bunny  |
+| Author |  Mona Awad  |
+| Publication Date | 2019   |
+| Country | Canada |
+| Genre | Novel  |
+        

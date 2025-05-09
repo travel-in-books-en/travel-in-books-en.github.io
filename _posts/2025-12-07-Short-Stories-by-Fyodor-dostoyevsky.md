@@ -1,4 +1,10 @@
 ---
 title: Short Stories by Fyodor dostoyevsky
-tags: [Story,Short Story,Argentina,Dostoevsky]
----
+tags: [Short Story,Argentina,Dostoevsky,Story]
+---     
+| Title | Short Stories  |
+| Author |  Fyodor dostoyevsky  |
+| Publication Date | 1987   |
+| Country | None |
+| Genre | None  |
+        

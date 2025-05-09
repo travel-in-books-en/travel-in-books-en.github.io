@@ -1,4 +1,10 @@
 ---
 title: Colorless Tsukuru Tazaki by Haruki Murakami
-tags: [⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Novel,Japan,Murakami]
----
+tags: [Novel,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Murakami,Japan]
+---     
+| Title | Colorless Tsukuru Tazaki  |
+| Author |  Haruki Murakami  |
+| Publication Date | 2013   |
+| Country | Japan |
+| Genre | Social Novel  |
+        
