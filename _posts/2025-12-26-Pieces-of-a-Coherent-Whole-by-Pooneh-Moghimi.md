@@ -1,6 +1,6 @@
 ---
 title: Pieces of a Coherent Whole by Pooneh Moghimi
-categories: [psychology,Non-fiction Literature]
+categories: [psychology,Nonfiction Literature]
 tags: [scientific,Iran]
 ---
         
