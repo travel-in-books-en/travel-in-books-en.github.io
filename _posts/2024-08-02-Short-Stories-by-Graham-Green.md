@@ -1,7 +1,7 @@
 ---
 title: Short Stories by Graham Green
-categories: [Fiction Literature,short story]
-tags: [England,Graham Greene,short story,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10]
+categories: [Fiction Literature,Short Story]
+tags: [Graham Greene,short story,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,England]
 ---
         
 | Title | Short Stories  |

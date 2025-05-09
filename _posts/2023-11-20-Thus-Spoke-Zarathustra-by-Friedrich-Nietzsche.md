@@ -1,6 +1,6 @@
 ---
 title: Thus Spoke Zarathustra by Friedrich Nietzsche
-categories: [Non-Ficional Literature,Philosophy]
+categories: [Philosophy,Non-Ficional Literature]
 tags: [Germany,Philosophical]
 ---
         

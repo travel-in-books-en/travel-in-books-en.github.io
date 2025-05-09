@@ -78,7 +78,7 @@ for filepath in onlyfiles:
       translated_cats = []
       translated_tags = []
       for c in categories:
-        translated_cats.append(translations[c.strip()])
+        translated_cats.append(translations[c.strip()].title())
 
       for t in tags:
         if t.strip() in translations:

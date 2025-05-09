@@ -1,7 +1,7 @@
 ---
 title: Short Stories by Tennessee Williams
-categories: [Fiction Literature,short story]
-tags: [short story,America]
+categories: [Fiction Literature,Short Story]
+tags: [America,short story]
 ---
         
 | Title | Short Stories  |

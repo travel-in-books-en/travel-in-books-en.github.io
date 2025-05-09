@@ -1,6 +1,6 @@
 ---
 title: Short Stories by Isaac Bashevis Singer
-categories: [Fiction Literature,short story]
+categories: [Fiction Literature,Short Story]
 tags: [short story]
 ---
         

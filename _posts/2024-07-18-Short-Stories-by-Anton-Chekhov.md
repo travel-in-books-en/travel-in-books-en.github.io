@@ -1,7 +1,7 @@
 ---
 title: Short Stories by Anton Chekhov
-categories: [Fiction Literature,short story]
-tags: [satire,Soroush Rohbakhsh’s suggestion,Russia,short story]
+categories: [Fiction Literature,Short Story]
+tags: [Soroush Rohbakhsh’s suggestion,short story,satire,Russia]
 ---
         
 | Title | Short Stories  |

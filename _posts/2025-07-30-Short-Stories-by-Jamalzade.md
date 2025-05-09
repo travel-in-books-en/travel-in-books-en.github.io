@@ -1,7 +1,7 @@
 ---
 title: Short Stories by Jamalzade
-categories: [Fiction Literature,short story]
-tags: [satire,Iran,short story]
+categories: [Fiction Literature,Short Story]
+tags: [Iran,short story,satire]
 ---
         
 | Title | Short Stories  |

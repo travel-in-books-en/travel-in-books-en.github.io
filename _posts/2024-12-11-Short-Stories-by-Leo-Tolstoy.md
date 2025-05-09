@@ -1,6 +1,6 @@
 ---
 title: Short Stories by Leo Tolstoy
-categories: [Fiction Literature,novel]
+categories: [Novel,Fiction Literature]
 tags: [story,Russia]
 ---
         

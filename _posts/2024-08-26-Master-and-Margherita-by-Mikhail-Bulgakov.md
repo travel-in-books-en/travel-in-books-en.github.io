@@ -1,7 +1,7 @@
 ---
 title: Master and Margherita by Mikhail Bulgakov
 categories: [Fiction Literature,Fantasy Novel]
-tags: [Soroush Rohbakhsh’s suggestion,Bulgakov,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,story,Russia]
+tags: [Russia,story,Soroush Rohbakhsh’s suggestion,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,Bulgakov]
 ---
         
 | Title | Master and Margherita  |

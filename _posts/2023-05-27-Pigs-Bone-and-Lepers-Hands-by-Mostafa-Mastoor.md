@@ -1,7 +1,7 @@
 ---
 title: Pigs Bone and Lepers Hands by Mostafa Mastoor
-categories: [Fiction Literature,novel]
-tags: [Iran,story]
+categories: [Novel,Fiction Literature]
+tags: [story,Iran]
 ---
         
 | Title | Pigs Bone and Lepers Hands  |

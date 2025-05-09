@@ -1,7 +1,7 @@
 ---
 title: I Will Turn Off the Lights by Zoya Pirzad
-categories: [Fiction Literature,novel]
-tags: [⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10,Zoya Pirzad,story,Armenian,Iran]
+categories: [Novel,Fiction Literature]
+tags: [Iran,story,Zoya Pirzad,Armenian,⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10]
 ---
         
 | Title | I Will Turn Off the Lights  |

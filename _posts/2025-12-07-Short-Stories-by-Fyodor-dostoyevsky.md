@@ -1,7 +1,7 @@
 ---
 title: Short Stories by Fyodor dostoyevsky
-categories: [Fiction Literature,short story]
-tags: [Argentina,story,short story,Dostoevsky]
+categories: [Fiction Literature,Short Story]
+tags: [story,short story,Argentina,Dostoevsky]
 ---
         
 | Title | Short Stories  |

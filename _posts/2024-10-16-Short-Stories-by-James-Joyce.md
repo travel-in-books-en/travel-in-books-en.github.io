@@ -1,7 +1,7 @@
 ---
 title: Short Stories by James Joyce
-categories: [Fiction Literature,short story]
-tags: [short story,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10]
+categories: [Fiction Literature,Short Story]
+tags: [⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,short story]
 ---
         
 | Title | Short Stories  |

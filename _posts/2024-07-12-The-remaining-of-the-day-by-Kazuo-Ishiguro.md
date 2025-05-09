@@ -1,7 +1,7 @@
 ---
 title: The remaining of the day by Kazuo Ishiguro
 categories: [Fiction Literature,Historical Novel]
-tags: [Soroush Rohbakhsh’s suggestion,Ishiguro,England,novel,⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ 9/10]
+tags: [novel,Ishiguro,Soroush Rohbakhsh’s suggestion,⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ 9/10,England]
 ---
         
 | Title | The remaining of the day  |

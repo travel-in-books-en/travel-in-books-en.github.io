@@ -1,7 +1,7 @@
 ---
 title: The Curious Incident of the Dog in the Night Time by Mark Haddon
-categories: [Fiction Literature,novel]
-tags: [England,novel,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10]
+categories: [Novel,Fiction Literature]
+tags: [novel,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,England]
 ---
         
 | Title | The Curious Incident of the Dog in the Night Time  |

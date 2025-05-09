@@ -1,7 +1,7 @@
 ---
 title: Short Stories by Kazuo Ishiguro
-categories: [Fiction Literature,short story]
-tags: [England,story,short story]
+categories: [Fiction Literature,Short Story]
+tags: [story,short story,England]
 ---
         
 | Title | Short Stories  |

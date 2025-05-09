@@ -1,7 +1,7 @@
 ---
 title: Norwegian Wood by Haruki Murakami
-categories: [Fiction Literature,novel]
-tags: [Japan,novel,Norwegian Wood,Murakami]
+categories: [Novel,Fiction Literature]
+tags: [novel,Murakami,Norwegian Wood,Japan]
 ---
         
 | Title | Norwegian Wood  |

@@ -1,7 +1,7 @@
 ---
 title: The corrections by Jonathan Franzen
-categories: [Fiction Literature,novel]
-tags: [⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 10/10,story,America,Jonathan Franzen]
+categories: [Novel,Fiction Literature]
+tags: [story,America,Jonathan Franzen,⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 10/10]
 ---
         
 | Title | The corrections  |

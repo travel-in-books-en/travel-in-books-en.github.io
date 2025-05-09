@@ -1,7 +1,7 @@
 ---
 title: Normal People by Sally Roony
-categories: [Fiction Literature,romance novel]
-tags: [Graham Greene,Ireland,story,⭐☆☆☆☆☆☆☆☆☆ 1/10]
+categories: [Fiction Literature,Romance Novel]
+tags: [Ireland,⭐☆☆☆☆☆☆☆☆☆ 1/10,story,Graham Greene]
 ---
         
 | Title | Normal People  |

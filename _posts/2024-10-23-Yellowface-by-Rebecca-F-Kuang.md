@@ -1,7 +1,7 @@
 ---
 title: Yellowface by Rebecca F Kuang
-categories: [Fiction Literature,Comedy]
-tags: [⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,story,America]
+categories: [Comedy,Fiction Literature]
+tags: [story,America,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10]
 ---
         
 | Title | Yellowface  |
