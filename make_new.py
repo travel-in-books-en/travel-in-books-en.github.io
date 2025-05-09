@@ -94,7 +94,6 @@ for filepath in onlyfiles:
 
       with open(join(output_path,filepath),"w") as f:
         str = """---
-title: {title}
 categories: {categories}
 tags: {tags}
 ---""".format(title=mytitle,categories=mycategories,tags=mytags)
@@ -106,6 +105,6 @@ tags: {tags}
 # | Country | {country} |
 # | Genre | {genre}  |
 #         """.format(title=mytitle[0:mytitle.index("by")],author=mytitle[mytitle.index("by")+2:],year=myyear,country=mycountry,genre=mygenre)
-#        f.write(str)
+        f.write(str)
       
       
