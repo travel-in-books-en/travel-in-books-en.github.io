@@ -1,4 +1,4 @@
 ---
-categories: [Historical Novel,Fiction Literature]
-tags: [⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ 9/10,England,Story,Ishiguro,Novel]
+title: When we were orphans by Kazuo Ishiguro
+categories: [Fiction Literature,Historical Novel]
 ---

@@ -1,4 +1,4 @@
 ---
-categories: [Nonfiction Literature,Psychology]
-tags: [Iran,Scientific]
+title: Pieces of a Coherent Whole by Pooneh Moghimi
+categories: [Psychology,Nonfiction Literature]
 ---

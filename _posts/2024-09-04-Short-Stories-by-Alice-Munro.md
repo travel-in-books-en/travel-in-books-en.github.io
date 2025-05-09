@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Short Story]
-tags: [Canada,Short Story,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10]
+title: Short Stories by Alice Munro
+categories: [Short Story,Fiction Literature]
 ---

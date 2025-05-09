@@ -1,4 +1,4 @@
 ---
-categories: [Novel,Fiction Literature]
-tags: [⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,Story]
+title: The Seven Moons of Maali Almeida by Shehan Karunatilaka
+categories: [Fiction Literature,Novel]
 ---

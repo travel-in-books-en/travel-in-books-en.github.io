@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Short Story]
-tags: [⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,Short Story]
+title: Short Stories by James Joyce
+categories: [Short Story,Fiction Literature]
 ---

@@ -1,4 +1,4 @@
 ---
-categories: [Historical Novel,Fiction Literature]
-tags: [⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,Germany,Heinrich Böll,Novel]
+title: The Clown by Heinrich Boll
+categories: [Fiction Literature,Historical Novel]
 ---

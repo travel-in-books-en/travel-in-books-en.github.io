@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Short Story]
-tags: [⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10,Italy,Short Story]
+title: Short Stories by Dino Buzzati
+categories: [Short Story,Fiction Literature]
 ---

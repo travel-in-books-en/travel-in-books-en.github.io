@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Short Story]
-tags: [Satire,Iran,Short Story]
+title: Short Stories by Jamalzade
+categories: [Short Story,Fiction Literature]
 ---

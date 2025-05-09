@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Short Story]
-tags: [Borges,Story,Short Story,Argentina]
+title: Short Stories by Jorge Luis Borges
+categories: [Short Story,Fiction Literature]
 ---

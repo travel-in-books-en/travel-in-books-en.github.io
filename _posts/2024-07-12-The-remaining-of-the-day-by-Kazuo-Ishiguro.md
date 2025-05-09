@@ -1,4 +1,4 @@
 ---
-categories: [Historical Novel,Fiction Literature]
-tags: [⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ 9/10,England,Soroush Rohbakhsh’S Suggestion,Ishiguro,Novel]
+title: The remaining of the day by Kazuo Ishiguro
+categories: [Fiction Literature,Historical Novel]
 ---

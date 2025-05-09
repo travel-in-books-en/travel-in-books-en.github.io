@@ -1,4 +1,4 @@
 ---
-categories: [Historical Novel,Fiction Literature]
-tags: [Russia,Story]
+title: The Captains Daughter by Alexander Pushkin
+categories: [Fiction Literature,Historical Novel]
 ---

@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Magical Realism Novel]
-tags: [Mexico]
+title: Pedro Paramo by Juan Rulfo
+categories: [Magical Realism Novel,Fiction Literature]
 ---

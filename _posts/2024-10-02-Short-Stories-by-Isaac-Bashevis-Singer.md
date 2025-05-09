@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Short Story]
-tags: [Short Story]
+title: Short Stories by Isaac Bashevis Singer
+categories: [Short Story,Fiction Literature]
 ---

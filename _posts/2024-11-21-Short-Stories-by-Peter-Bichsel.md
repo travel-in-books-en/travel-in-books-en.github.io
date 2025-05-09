@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Short Story]
-tags: [Swiss,Short Story]
+title: Short Stories by Peter Bichsel
+categories: [Short Story,Fiction Literature]
 ---

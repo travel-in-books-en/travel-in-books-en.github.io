@@ -1,4 +1,4 @@
 ---
+title: Klara and the Sun by Kazuo Ishiguro
 categories: [Fiction Literature,Fantasy Novel]
-tags: [Speculative Fiction,England,⭐⭐⭐⭐☆☆☆☆☆☆ 4/10,Ishiguro,Novel]
 ---

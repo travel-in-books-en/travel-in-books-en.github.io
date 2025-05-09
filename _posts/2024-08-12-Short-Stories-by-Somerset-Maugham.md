@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Short Story]
-tags: [⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ 9/10,England,Short Story]
+title: Short Stories by Somerset Maugham
+categories: [Short Story,Fiction Literature]
 ---

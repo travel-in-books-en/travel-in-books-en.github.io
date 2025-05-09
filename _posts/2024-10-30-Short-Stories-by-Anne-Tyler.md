@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Short Story]
-tags: [America,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,Short Story]
+title: Short Stories by Anne Tyler
+categories: [Short Story,Fiction Literature]
 ---

@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Short Story]
-tags: [England,Story,Short Story]
+title: Short Stories by Kazuo Ishiguro
+categories: [Short Story,Fiction Literature]
 ---

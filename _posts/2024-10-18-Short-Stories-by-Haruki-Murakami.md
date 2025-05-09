@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Short Story]
-tags: [⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10,Japan,Murakami,Short Story]
+title: Short Stories by Haruki Murakami
+categories: [Short Story,Fiction Literature]
 ---

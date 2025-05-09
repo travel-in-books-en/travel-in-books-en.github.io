@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Short Story]
-tags: [Graham Greene,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,England,Short Story]
+title: Short Stories by Graham Green
+categories: [Short Story,Fiction Literature]
 ---

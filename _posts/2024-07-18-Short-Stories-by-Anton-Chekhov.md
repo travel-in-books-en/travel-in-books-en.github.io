@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Short Story]
-tags: [Satire,Soroush Rohbakhsh’S Suggestion,Short Story,Russia]
+title: Short Stories by Anton Chekhov
+categories: [Short Story,Fiction Literature]
 ---

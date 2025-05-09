@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Short Story]
-tags: [America,Short Story]
+title: Short Stories by Tennessee Williams
+categories: [Short Story,Fiction Literature]
 ---

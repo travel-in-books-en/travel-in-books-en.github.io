@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Short Story]
-tags: [Gabriel García Márquez,Story,Argentina,Short Story]
+title: Short Stories by Gabriel Garcia Marquez
+categories: [Short Story,Fiction Literature]
 ---

@@ -1,4 +1,4 @@
 ---
-categories: [Science Fiction,Fiction Literature]
-tags: [America,Ted Chiang,Science Fiction,Book Club,Artificial Intelligence,Novel]
+title: Short Stories by Ted Chiang
+categories: [Fiction Literature,Science Fiction]
 ---

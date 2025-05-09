@@ -1,4 +1,4 @@
 ---
-categories: [Comedy,Fiction Literature]
-tags: [America,Story,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10]
+title: Yellowface by Rebecca F Kuang
+categories: [Fiction Literature,Comedy]
 ---

@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Short Story]
-tags: [Iran,Short Story]
+title: Short Stories by Bijan Najdi
+categories: [Short Story,Fiction Literature]
 ---

@@ -1,4 +1,4 @@
 ---
-categories: [Fiction Literature,Short Story]
-tags: [America,Story,Short Story]
+title: Short Stories by David Sedaris
+categories: [Short Story,Fiction Literature]
 ---

@@ -1,4 +1,4 @@
 ---
-categories: [Novel,Fiction Literature]
-tags: [America]
+title: East of Eden by John Steinbeck
+categories: [Fiction Literature,Novel]
 ---
