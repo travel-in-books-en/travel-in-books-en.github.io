@@ -1,6 +1,6 @@
 ---
 title: Short Stories by Mario Vargas Llosa
-categories: [Fiction Literature,Novel]
+categories: [Novel,Fiction Literature]
 tags: [Peru,Story]
 ---     
 | Title | Short Stories  |

@@ -1,7 +1,7 @@
 ---
 title: Pulp by Charles Bukowski
 categories: [Postmodern Novel,Fiction Literature]
-tags: [America,Bukowski,Novel,Comedy]
+tags: [Novel,Bukowski,Comedy,America]
 ---     
 | Title | Pulp  |
 | Author |  Charles Bukowski  |

@@ -1,7 +1,7 @@
 ---
 title: Short Stories by Bijan Najdi
-categories: [Fiction Literature,Novel]
-tags: [Story,Iran]
+categories: [Novel,Fiction Literature]
+tags: [Iran,Story]
 ---     
 | Title | Short Stories  |
 | Author |  Bijan Najdi  |

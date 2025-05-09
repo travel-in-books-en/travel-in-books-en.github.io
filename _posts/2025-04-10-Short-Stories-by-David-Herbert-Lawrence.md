@@ -1,7 +1,7 @@
 ---
 title: Short Stories by David Herbert Lawrence
-categories: [Fiction Literature,Novel]
-tags: [Story,England]
+categories: [Novel,Fiction Literature]
+tags: [England,Story]
 ---     
 | Title | Short Stories  |
 | Author |  David Herbert Lawrence  |

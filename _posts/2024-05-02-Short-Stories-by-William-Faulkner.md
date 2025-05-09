@@ -1,7 +1,7 @@
 ---
 title: Short Stories by William Faulkner
 categories: [Short Story,Fiction Literature]
-tags: [America,Short Story,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10]
+tags: [⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,Short Story,America]
 ---     
 | Title | Short Stories  |
 | Author |  William Faulkner  |

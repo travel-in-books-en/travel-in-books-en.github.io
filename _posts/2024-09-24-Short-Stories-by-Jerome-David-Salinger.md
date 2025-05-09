@@ -1,7 +1,7 @@
 ---
 title: Short Stories by Jerome David Salinger
 categories: [Short Story,Fiction Literature]
-tags: [Canada,Short Story,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10]
+tags: [⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,Short Story,Canada]
 ---     
 | Title | Short Stories  |
 | Author |  Jerome David Salinger  |

@@ -1,7 +1,7 @@
 ---
 title: The Wind Up Bird Chronicle by Haruki Murakami
 categories: [Fiction Literature,Fantasy Novel]
-tags: [⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Murakami,Story,Low Fantasy,Japan]
+tags: [Low Fantasy,Japan,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Murakami,Story]
 ---     
 | Title | The Wind Up Bird Chronicle  |
 | Author |  Haruki Murakami  |

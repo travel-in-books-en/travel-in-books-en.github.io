@@ -1,7 +1,7 @@
 ---
 title: Blue Sisters by Coco Mellors
-categories: [Fiction Literature,Novel]
-tags: [America,Story]
+categories: [Novel,Fiction Literature]
+tags: [Story,America]
 ---     
 | Title | Blue Sisters  |
 | Author |  Coco Mellors  |

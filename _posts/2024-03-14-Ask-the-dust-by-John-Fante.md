@@ -1,7 +1,7 @@
 ---
 title: Ask the dust by John Fante
-categories: [Fiction Literature,Novel]
-tags: [America,John Fante,Los Angeles,Novel]
+categories: [Novel,Fiction Literature]
+tags: [Novel,Los Angeles,John Fante,America]
 ---     
 | Title | Ask the dust  |
 | Author |  John Fante  |

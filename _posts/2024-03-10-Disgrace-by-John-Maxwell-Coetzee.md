@@ -1,7 +1,7 @@
 ---
 title: Disgrace by John Maxwell Coetzee
-categories: [Fiction Literature,Novel]
-tags: [Coetzee,South Africa,Book Club,Novel]
+categories: [Novel,Fiction Literature]
+tags: [Novel,Book Club,South Africa,Coetzee]
 ---     
 | Title | Disgrace  |
 | Author |  John Maxwell Coetzee  |

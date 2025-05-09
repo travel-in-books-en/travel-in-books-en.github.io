@@ -1,7 +1,7 @@
 ---
 title: The Fishermen by Chigozie Obioma
-categories: [Fiction Literature,Novel,2015]
-tags: [Story,England]
+categories: [Novel,Fiction Literature]
+tags: [England,Story]
 ---     
 | Title | The Fishermen  |
 | Author |  Chigozie Obioma  |

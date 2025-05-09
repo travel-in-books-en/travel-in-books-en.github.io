@@ -1,6 +1,6 @@
 ---
 title: Comic Relief A Comprehensive Philosophy of Humor by John Morreall
-categories: [Research,Nonfiction Literature]
+categories: [Nonfiction Literature,Research]
 tags: [Satire,Comedy]
 ---     
 | Title | Comic Relief A Comprehensive Philosophy of Humor  |

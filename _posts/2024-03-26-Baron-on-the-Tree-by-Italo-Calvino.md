@@ -1,7 +1,7 @@
 ---
 title: Baron on the Tree by Italo Calvino
 categories: [Speculative Fiction,Fiction Literature]
-tags: [Italy,⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10,Speculative Fiction,Italo Calvino,Novel]
+tags: [Novel,Italo Calvino,Speculative Fiction,Italy,⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10]
 ---     
 | Title | Baron on the Tree  |
 | Author |  Italo Calvino  |

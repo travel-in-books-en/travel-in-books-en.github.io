@@ -1,7 +1,7 @@
 ---
 title: The Alchemist by Paulo Coelho
-categories: [Fiction Literature,Novel]
-tags: [Novel,Brazil,Fantasy]
+categories: [Novel,Fiction Literature]
+tags: [Novel,Fantasy,Brazil]
 ---     
 | Title | The Alchemist  |
 | Author |  Paulo Coelho  |

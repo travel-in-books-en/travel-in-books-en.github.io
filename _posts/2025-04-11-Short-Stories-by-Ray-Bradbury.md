@@ -1,7 +1,7 @@
 ---
 title: Short Stories by Ray Bradbury
-categories: [Fiction Literature,Novel]
-tags: [America,Story]
+categories: [Novel,Fiction Literature]
+tags: [Story,America]
 ---     
 | Title | Short Stories  |
 | Author |  Ray Bradbury  |

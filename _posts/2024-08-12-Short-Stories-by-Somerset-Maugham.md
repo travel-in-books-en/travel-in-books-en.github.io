@@ -1,7 +1,7 @@
 ---
 title: Short Stories by Somerset Maugham
 categories: [Short Story,Fiction Literature]
-tags: [Short Story,England,⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ 9/10]
+tags: [England,⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ 9/10,Short Story]
 ---     
 | Title | Short Stories  |
 | Author |  Somerset Maugham  |

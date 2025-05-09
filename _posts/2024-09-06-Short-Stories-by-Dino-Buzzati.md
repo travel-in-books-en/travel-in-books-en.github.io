@@ -1,7 +1,7 @@
 ---
 title: Short Stories by Dino Buzzati
 categories: [Short Story,Fiction Literature]
-tags: [Short Story,Italy,⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10]
+tags: [⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10,Short Story,Italy]
 ---     
 | Title | Short Stories  |
 | Author |  Dino Buzzati  |

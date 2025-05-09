@@ -1,7 +1,7 @@
 ---
 title: Fall is the last season of the year by Nasim Marashi
-categories: [Fiction Literature,Novel]
-tags: [Story,Iran]
+categories: [Novel,Fiction Literature]
+tags: [Iran,Story]
 ---     
 | Title | Fall is the last season of the year  |
 | Author |  Nasim Marashi  |

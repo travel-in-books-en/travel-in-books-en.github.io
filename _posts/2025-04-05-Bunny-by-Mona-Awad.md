@@ -1,7 +1,7 @@
 ---
 title: Bunny by Mona Awad
-categories: [Fiction Literature,Novel]
-tags: [Canada,⭐⭐⭐⭐☆☆☆☆☆☆ 4/10,Novel]
+categories: [Novel,Fiction Literature]
+tags: [Novel,Canada,⭐⭐⭐⭐☆☆☆☆☆☆ 4/10]
 ---     
 | Title | Bunny  |
 | Author |  Mona Awad  |
