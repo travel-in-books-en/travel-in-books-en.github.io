@@ -1,7 +1,7 @@
 ---
 title: Short Stories by David Sedaris
 categories: [Fiction Literature,Short Story]
-tags: [story,America,short story]
+tags: [America,Short Story,Story]
 ---
         
 | Title | Short Stories  |

@@ -1,7 +1,7 @@
 ---
 title: Short Stories by Ernest Hemingway
 categories: [Fiction Literature,Short Story]
-tags: [America,short story]
+tags: [America,Short Story]
 ---
         
 | Title | Short Stories  |

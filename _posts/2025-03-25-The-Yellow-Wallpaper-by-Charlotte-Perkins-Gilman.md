@@ -1,7 +1,7 @@
 ---
 title: The Yellow Wallpaper by Charlotte Perkins Gilman
-categories: [Magical Realism,Fiction Literature]
-tags: [story,America]
+categories: [Fiction Literature,Magical Realism]
+tags: [America,Story]
 ---
         
 | Title | The Yellow Wallpaper  |

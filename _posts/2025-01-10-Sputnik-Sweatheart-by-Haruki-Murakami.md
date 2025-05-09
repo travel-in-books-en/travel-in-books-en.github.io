@@ -1,7 +1,7 @@
 ---
 title: Sputnik Sweatheart by Haruki Murakami
-categories: [Novel,Fiction Literature]
-tags: [novel,Murakami,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Japan]
+categories: [Fiction Literature,Novel]
+tags: [Japan,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Murakami,Novel]
 ---
         
 | Title | Sputnik Sweatheart  |

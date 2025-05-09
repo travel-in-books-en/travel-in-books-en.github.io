@@ -83,7 +83,7 @@ for filepath in onlyfiles:
       for t in tags:
         if t.strip() in translations:
           if not translations[t.strip()].isnumeric():
-            translated_tags.append(translations[t.strip()])
+            translated_tags.append(translations[t.strip()].title())
 
       mycategories = '[' + ','.join(translated_cats) + ']'
       mytags = '[' + ','.join(translated_tags) + ']'

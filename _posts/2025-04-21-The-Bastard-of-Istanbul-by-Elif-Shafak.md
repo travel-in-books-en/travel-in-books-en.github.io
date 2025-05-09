@@ -1,7 +1,7 @@
 ---
 title: The Bastard of Istanbul by Elif Shafak
-categories: [Novel,Fiction Literature]
-tags: [story,Turkey]
+categories: [Fiction Literature,Novel]
+tags: [Turkey,Story]
 ---
         
 | Title | The Bastard of Istanbul  |

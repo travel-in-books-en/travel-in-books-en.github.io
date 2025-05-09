@@ -1,7 +1,7 @@
 ---
 title: Freedom by Jonathan Franzen
-categories: [Novel,Fiction Literature]
-tags: [story,America,Jonathan Franzen,⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 10/10]
+categories: [Fiction Literature,Novel]
+tags: [America,Story,⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 10/10,Jonathan Franzen]
 ---
         
 | Title | Freedom  |

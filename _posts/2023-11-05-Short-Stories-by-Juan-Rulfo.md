@@ -1,7 +1,7 @@
 ---
 title: Short Stories by Juan Rulfo
 categories: [Fiction Literature,Short Story]
-tags: [short story,Mexico]
+tags: [Short Story,Mexico]
 ---
         
 | Title | Short Stories  |

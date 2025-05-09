@@ -1,7 +1,7 @@
 ---
 title: The shadow of the wind by Carlos Ruiz Zafon
-categories: [Novel,Fiction Literature]
-tags: [Barcelona,book club,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Spain]
+categories: [Fiction Literature,Novel]
+tags: [⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Spain,Barcelona,Book Club]
 ---
         
 | Title | The shadow of the wind  |

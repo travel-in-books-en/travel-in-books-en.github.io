@@ -1,7 +1,7 @@
 ---
 title: The dutch house by Ann Patchett
-categories: [Novel,Fiction Literature]
-tags: [The Dutch House,novel,America]
+categories: [Fiction Literature,Novel]
+tags: [Novel,The Dutch House,America]
 ---
         
 | Title | The dutch house  |

@@ -1,7 +1,7 @@
 ---
 title: Honorine by Honore de Balzac
 categories: [Fiction Literature,Fantasy Novel]
-tags: [Fiction Literature,France]
+tags: [France,Fiction Literature]
 ---
         
 | Title | Honorine  |

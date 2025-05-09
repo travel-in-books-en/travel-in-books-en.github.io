@@ -1,7 +1,7 @@
 ---
 title: The House of the Spirits by Isabel Allende
-categories: [Magical Realism,Fiction Literature]
-tags: [Chile,story]
+categories: [Fiction Literature,Magical Realism]
+tags: [Chile,Story]
 ---
         
 | Title | The House of the Spirits  |

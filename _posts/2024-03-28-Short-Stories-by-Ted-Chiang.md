@@ -1,7 +1,7 @@
 ---
 title: Short Stories by Ted Chiang
 categories: [Fiction Literature,Science Fiction]
-tags: [artificial intelligence,book club,science fiction,novel,America,Ted Chiang]
+tags: [Artificial Intelligence,Science Fiction,Ted Chiang,Novel,Book Club,America]
 ---
         
 | Title | Short Stories  |

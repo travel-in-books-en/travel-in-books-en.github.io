@@ -1,7 +1,7 @@
 ---
 title: Short Stories by Alice Munro
 categories: [Fiction Literature,Short Story]
-tags: [Canada,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,short story]
+tags: [⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,Short Story,Canada]
 ---
         
 | Title | Short Stories  |
