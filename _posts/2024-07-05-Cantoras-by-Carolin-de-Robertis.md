@@ -1,4 +1,4 @@
 ---
 title: Cantoras by Carolin de Robertis
-categories: [Fiction Literature,Historical Novel]
+categories: [Historical Novel,Fiction Literature]
 ---

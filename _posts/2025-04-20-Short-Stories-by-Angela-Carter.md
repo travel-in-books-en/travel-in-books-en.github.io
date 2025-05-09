@@ -1,4 +1,4 @@
 ---
 title: Short Stories by Angela Carter
-categories: [Fiction Literature,Novel]
+categories: [Novel,Fiction Literature]
 ---

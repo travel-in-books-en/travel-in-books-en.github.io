@@ -1,4 +1,4 @@
 ---
 title: Short Stories by Anne Tyler
-categories: [Short Story,Fiction Literature]
+categories: [Fiction Literature,Short Story]
 ---

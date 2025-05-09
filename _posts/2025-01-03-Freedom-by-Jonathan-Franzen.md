@@ -1,4 +1,4 @@
 ---
 title: Freedom by Jonathan Franzen
-categories: [Fiction Literature,Novel]
+categories: [Novel,Fiction Literature]
 ---

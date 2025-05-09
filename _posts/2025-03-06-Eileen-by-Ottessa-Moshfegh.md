@@ -1,4 +1,4 @@
 ---
 title: Eileen by Ottessa Moshfegh
-categories: [Fiction Literature,Novel]
+categories: [Novel,Fiction Literature]
 ---

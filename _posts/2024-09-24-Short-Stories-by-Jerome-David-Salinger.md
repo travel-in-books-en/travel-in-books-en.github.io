@@ -1,4 +1,4 @@
 ---
 title: Short Stories by Jerome David Salinger
-categories: [Short Story,Fiction Literature]
+categories: [Fiction Literature,Short Story]
 ---

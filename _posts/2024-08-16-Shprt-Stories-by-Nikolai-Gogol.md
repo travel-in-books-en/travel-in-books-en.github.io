@@ -1,4 +1,4 @@
 ---
 title: Shprt Stories by Nikolai Gogol
-categories: [Short Story,Fiction Literature]
+categories: [Fiction Literature,Short Story]
 ---

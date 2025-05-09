@@ -1,4 +1,4 @@
 ---
 title: When we were orphans by Kazuo Ishiguro
-categories: [Fiction Literature,Historical Novel]
+categories: [Historical Novel,Fiction Literature]
 ---

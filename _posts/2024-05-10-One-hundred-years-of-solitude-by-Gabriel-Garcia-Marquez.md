@@ -1,4 +1,4 @@
 ---
 title: One hundred years of solitude by Gabriel Garcia Marquez
-categories: [Magical Realism Novel,Fiction Literature]
+categories: [Fiction Literature,Magical Realism Novel]
 ---

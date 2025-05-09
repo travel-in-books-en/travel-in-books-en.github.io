@@ -1,4 +1,4 @@
 ---
 title: My Year of Rest and Relaxation by Ottessa Moshfegh
-categories: [Fiction Literature,Novel]
+categories: [Novel,Fiction Literature]
 ---

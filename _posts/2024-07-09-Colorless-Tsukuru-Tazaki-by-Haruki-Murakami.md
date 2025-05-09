@@ -1,4 +1,4 @@
 ---
 title: Colorless Tsukuru Tazaki by Haruki Murakami
-categories: [Fiction Literature,Novel]
+categories: [Novel,Fiction Literature]
 ---

@@ -1,4 +1,4 @@
 ---
 title: Short Stories by Bijan Najdi
-categories: [Fiction Literature,Novel]
+categories: [Novel,Fiction Literature]
 ---

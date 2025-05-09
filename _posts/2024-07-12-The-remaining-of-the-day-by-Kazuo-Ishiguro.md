@@ -1,4 +1,4 @@
 ---
 title: The remaining of the day by Kazuo Ishiguro
-categories: [Fiction Literature,Historical Novel]
+categories: [Historical Novel,Fiction Literature]
 ---

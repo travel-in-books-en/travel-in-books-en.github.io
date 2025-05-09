@@ -1,4 +1,4 @@
 ---
 title: Short Stories by Somerset Maugham
-categories: [Short Story,Fiction Literature]
+categories: [Fiction Literature,Short Story]
 ---

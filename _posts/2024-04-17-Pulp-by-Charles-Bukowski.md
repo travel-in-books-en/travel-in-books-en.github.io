@@ -1,4 +1,4 @@
 ---
 title: Pulp by Charles Bukowski
-categories: [Fiction Literature,Postmodern Novel]
+categories: [Postmodern Novel,Fiction Literature]
 ---

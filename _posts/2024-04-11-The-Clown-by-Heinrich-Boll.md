@@ -1,4 +1,4 @@
 ---
 title: The Clown by Heinrich Boll
-categories: [Fiction Literature,Historical Novel]
+categories: [Historical Novel,Fiction Literature]
 ---

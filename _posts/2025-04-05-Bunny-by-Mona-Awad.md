@@ -1,4 +1,4 @@
 ---
 title: Bunny by Mona Awad
-categories: [Fiction Literature,Novel]
+categories: [Novel,Fiction Literature]
 ---

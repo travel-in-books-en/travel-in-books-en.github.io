@@ -1,4 +1,4 @@
 ---
 title: Sputnik Sweatheart by Haruki Murakami
-categories: [Fiction Literature,Novel]
+categories: [Novel,Fiction Literature]
 ---

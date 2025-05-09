@@ -1,4 +1,4 @@
 ---
 title: The power and the glory by Graham Greene
-categories: [Fiction Literature,Historical Novel]
+categories: [Historical Novel,Fiction Literature]
 ---
