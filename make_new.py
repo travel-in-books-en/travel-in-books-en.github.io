@@ -106,6 +106,6 @@ tags: {tags}
 # | Country | {country} |
 # | Genre | {genre}  |
 #         """.format(title=mytitle[0:mytitle.index("by")],author=mytitle[mytitle.index("by")+2:],year=myyear,country=mycountry,genre=mygenre)
-        f.write(str)
+#        f.write(str)
       
       
