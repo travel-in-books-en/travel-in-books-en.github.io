@@ -1,12 +1,5 @@
 ---
 title: Short Stories by Bijan Najdi
-categories: [Fiction Literature,Short Story]
-tags: [Iran,Short Story]
+categories: [Short Story,Fiction Literature]
+tags: [Short Story,Iran]
 ---
-        
-| Title | Short Stories  |
-| Author |  Bijan Najdi  |
-| Publication Date | 1994   |
-| Country | America |
-| Genre | None  |
-        

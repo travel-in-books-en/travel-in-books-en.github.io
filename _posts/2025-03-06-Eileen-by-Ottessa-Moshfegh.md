@@ -1,12 +1,5 @@
 ---
 title: Eileen by Ottessa Moshfegh
 categories: [Fiction Literature,Novel]
-tags: [⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Novel,America]
+tags: [Novel,America,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10]
 ---
-        
-| Title | Eileen  |
-| Author |  Ottessa Moshfegh  |
-| Publication Date | 2015   |
-| Country | America |
-| Genre | Novel  |
-        

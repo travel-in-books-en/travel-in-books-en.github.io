@@ -1,12 +1,5 @@
 ---
 title: The Midnight Library by Matt Haig
 categories: [Fiction Literature,Fantasy Novel]
-tags: [England,⭐⭐⭐⭐☆☆☆☆☆☆ 4/10,Novel]
+tags: [Novel,⭐⭐⭐⭐☆☆☆☆☆☆ 4/10,England]
 ---
-        
-| Title | The Midnight Library  |
-| Author |  Matt Haig  |
-| Publication Date | 2020   |
-| Country | England |
-| Genre | Fantasy Novel  |
-        

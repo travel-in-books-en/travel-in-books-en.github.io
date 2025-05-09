@@ -1,12 +1,5 @@
 ---
 title: Shprt Stories by Nikolai Gogol
-categories: [Fiction Literature,Short Story]
-tags: [⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,Short Story,Russia]
+categories: [Short Story,Fiction Literature]
+tags: [Short Story,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,Russia]
 ---
-        
-| Title | Shprt Stories  |
-| Author |  Nikolai Gogol  |
-| Publication Date | 1842   |
-| Country | Russia |
-| Genre | Social Comedy  |
-        

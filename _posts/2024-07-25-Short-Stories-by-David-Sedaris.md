@@ -1,12 +1,5 @@
 ---
 title: Short Stories by David Sedaris
-categories: [Fiction Literature,Short Story]
-tags: [America,Short Story,Story]
+categories: [Short Story,Fiction Literature]
+tags: [Short Story,America,Story]
 ---
-        
-| Title | Short Stories  |
-| Author |  David Sedaris  |
-| Publication Date | 2000   |
-| Country | America |
-| Genre | Social Comedy  |
-        

@@ -1,5 +1,5 @@
 ---
-title: Kiss the Fair Face of God by Mostafa Mastoor
+title: Short Stories by Bijan Najdi
 categories: [Fiction Literature,Novel]
 tags: [Iran,Story]
 ---
