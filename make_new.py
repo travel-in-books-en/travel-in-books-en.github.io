@@ -95,7 +95,6 @@ for filepath in onlyfiles:
       with open(join(output_path,filepath),"w") as f:
         str = """---
 title: {title}
-categories: {categories}
 ---""".format(title=mytitle,categories=mycategories,tags=mytags)
 
 #        str += """     
