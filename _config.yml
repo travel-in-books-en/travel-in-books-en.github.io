@@ -16,7 +16,7 @@ timezone: Europe/Berlin
 
 title: Travel in Books # the main title
 
-tagline: Gathering my moments of reading books # it will display as the sub-title
+tagline: Gathering my moments of reading # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
