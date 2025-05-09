@@ -1,6 +1,6 @@
 ---
 title: Short Stories by Anne Tyler
-categories: [short story,Fiction Literature]
+categories: [Fiction Literature,short story]
 tags: [short story,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,America]
 ---
         

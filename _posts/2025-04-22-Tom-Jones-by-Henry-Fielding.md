@@ -1,7 +1,7 @@
 ---
 title: Tom Jones by Henry Fielding
 categories: [Fiction Literature,novel]
-tags: [story,England]
+tags: [England,story]
 ---
         
 | Title | Tom Jones  |

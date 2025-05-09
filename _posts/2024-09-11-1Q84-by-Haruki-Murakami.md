@@ -1,7 +1,7 @@
 ---
 title: 1Q84 by Haruki Murakami
-categories: [Fantasy Novel,Fiction Literature]
-tags: [story,Murakami,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,Japan]
+categories: [Fiction Literature,Fantasy Novel]
+tags: [⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,story,Japan,Murakami]
 ---
         
 | Title | 1Q84  |

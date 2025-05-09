@@ -1,7 +1,7 @@
 ---
 title: Shprt Stories by Nikolai Gogol
-categories: [short story,Fiction Literature]
-tags: [short story,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,Russia]
+categories: [Fiction Literature,short story]
+tags: [Russia,short story,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10]
 ---
         
 | Title | Shprt Stories  |

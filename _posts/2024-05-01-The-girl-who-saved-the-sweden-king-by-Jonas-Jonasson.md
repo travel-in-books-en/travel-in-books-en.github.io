@@ -1,7 +1,7 @@
 ---
 title: The girl who saved the sweden king by Jonas Jonasson
 categories: [Fiction Literature,novel]
-tags: [novel,comedy,Jonas Jonasson,⭐⭐⭐☆☆☆☆☆☆☆ 3/10,Sweden]
+tags: [⭐⭐⭐☆☆☆☆☆☆☆ 3/10,Jonas Jonasson,novel,Sweden,comedy]
 ---
         
 | Title | The girl who saved the sweden king  |

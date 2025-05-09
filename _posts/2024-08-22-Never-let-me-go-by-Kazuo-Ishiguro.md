@@ -1,7 +1,7 @@
 ---
 title: Never let me go by Kazuo Ishiguro
-categories: [Fantasy Novel,Fiction Literature]
-tags: [novel,speculative fiction,Ishiguro,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10]
+categories: [Fiction Literature,Fantasy Novel]
+tags: [speculative fiction,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Ishiguro,novel]
 ---
         
 | Title | Never let me go  |

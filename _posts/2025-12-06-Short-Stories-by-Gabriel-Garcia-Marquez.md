@@ -1,7 +1,7 @@
 ---
 title: Short Stories by Gabriel Garcia Marquez
-categories: [short story,Fiction Literature]
-tags: [short story,story,Argentina,Gabriel García Márquez]
+categories: [Fiction Literature,short story]
+tags: [Gabriel García Márquez,Argentina,story,short story]
 ---
         
 | Title | Short Stories  |

@@ -1,7 +1,7 @@
 ---
 title: Kafka on the shore by Haruki Murakami
-categories: [Fantasy Novel,Fiction Literature]
-tags: [Murakami,novel,Japan,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10]
+categories: [Fiction Literature,Fantasy Novel]
+tags: [⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,novel,Japan,Murakami]
 ---
         
 | Title | Kafka on the shore  |

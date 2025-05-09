@@ -1,7 +1,7 @@
 ---
 title: The power and the glory by Graham Greene
 categories: [Fiction Literature,Historical Novel]
-tags: [story,Graham Greene,England,Soroush Rohbakhsh’s suggestion,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10]
+tags: [Graham Greene,Soroush Rohbakhsh’s suggestion,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,story,England]
 ---
         
 | Title | The power and the glory  |

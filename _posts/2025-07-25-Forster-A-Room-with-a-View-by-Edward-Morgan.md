@@ -1,7 +1,7 @@
 ---
 title: Forster A Room with a View by Edward Morgan
 categories: [Fiction Literature,novel]
-tags: [story,England]
+tags: [England,story]
 ---
         
 | Title | Forster A Room with a View  |

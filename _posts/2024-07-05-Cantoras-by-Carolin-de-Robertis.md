@@ -1,7 +1,7 @@
 ---
 title: Cantoras by Carolin de Robertis
 categories: [Fiction Literature,Historical Novel]
-tags: [singers,novel,⭐⭐⭐⭐☆☆☆☆☆☆ 4/10,book club,Carolina De Robertis,Uruguay,lesbian]
+tags: [lesbian,⭐⭐⭐⭐☆☆☆☆☆☆ 4/10,singers,Carolina De Robertis,Uruguay,novel,book club]
 ---
         
 | Title | Cantoras  |

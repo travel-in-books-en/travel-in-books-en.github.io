@@ -1,7 +1,7 @@
 ---
 title: Father Goriot by Honore de Balzac
-categories: [Fantasy Novel,Fiction Literature]
-tags: [novel,France,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10]
+categories: [Fiction Literature,Fantasy Novel]
+tags: [⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,France,novel]
 ---
         
 | Title | Father Goriot  |

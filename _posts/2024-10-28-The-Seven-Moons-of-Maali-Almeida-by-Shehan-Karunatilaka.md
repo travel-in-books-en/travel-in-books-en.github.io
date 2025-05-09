@@ -1,7 +1,7 @@
 ---
 title: The Seven Moons of Maali Almeida by Shehan Karunatilaka
-categories: [Novel,Fiction Literature]
-tags: [⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,story]
+categories: [Fiction Literature,Novel]
+tags: [story,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10]
 ---
         
 | Title | The Seven Moons of Maali Almeida  |

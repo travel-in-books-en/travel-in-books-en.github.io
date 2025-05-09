@@ -1,7 +1,7 @@
 ---
 title: A fraction of the whole by Steve Toltz
 categories: [Fiction Literature,novel]
-tags: [Steve Toltz,novel,comedy,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,Australia]
+tags: [⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,Australia,novel,comedy,Steve Toltz]
 ---
         
 | Title | A fraction of the whole  |

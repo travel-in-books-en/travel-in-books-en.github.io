@@ -1,7 +1,7 @@
 ---
 title: Madame Bovary by Gustave Flaubert
-categories: [Fantasy Novel,Fiction Literature]
-tags: [novel,Fiction Literature,France,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10]
+categories: [Fiction Literature,Fantasy Novel]
+tags: [⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Fiction Literature,France,novel]
 ---
         
 | Title | Madame Bovary  |
