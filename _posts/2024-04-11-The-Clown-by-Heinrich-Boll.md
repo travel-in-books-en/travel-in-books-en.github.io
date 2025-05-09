@@ -1,6 +1,7 @@
 ---
 title: The Clown by Heinrich Boll
-tags: [Novel,Germany,Heinrich Böll,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10]
+categories: [Historical Novel,Fiction Literature]
+tags: [Germany,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,Novel,Heinrich Böll]
 ---     
 | Title | The Clown  |
 | Author |  Heinrich Boll  |

@@ -1,6 +1,7 @@
 ---
 title: Wuthering Heights by Emily Bronte
-tags: [Novel,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,England]
+categories: [Fiction Literature,Novel]
+tags: [⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Novel,England]
 ---     
 | Title | Wuthering Heights  |
 | Author |  Emily Bronte  |

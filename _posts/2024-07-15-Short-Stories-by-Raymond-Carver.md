@@ -1,6 +1,7 @@
 ---
 title: Short Stories by Raymond Carver
-tags: [Short Story,America]
+categories: [Short Story,Fiction Literature]
+tags: [America,Short Story]
 ---     
 | Title | Short Stories  |
 | Author |  Raymond Carver  |

@@ -1,6 +1,7 @@
 ---
 title: The idiot by Fyodor Dostoevsky
-tags: [Russia,Dostoevsky,Novel,⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 10/10]
+categories: [Fiction Literature,Novel]
+tags: [Dostoevsky,⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 10/10,Russia,Novel]
 ---     
 | Title | The idiot  |
 | Author |  Fyodor Dostoevsky  |

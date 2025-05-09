@@ -1,6 +1,7 @@
 ---
 title: The Brothers Karamazov by Fyodor Dostoevsky
-tags: [Russia,Dostoevsky,Novel,⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ 9/10]
+categories: [Fiction Literature,Novel]
+tags: [⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ 9/10,Dostoevsky,Russia,Novel]
 ---     
 | Title | The Brothers Karamazov  |
 | Author |  Fyodor Dostoevsky  |

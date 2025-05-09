@@ -1,6 +1,7 @@
 ---
 title: Kiss the Fair Face of God by Mostafa Mastoor
-tags: [Iran,Story]
+categories: [Fiction Literature,Novel]
+tags: [Story,Iran]
 ---     
 | Title | Kiss the Fair Face of God  |
 | Author |  Mostafa Mastoor  |

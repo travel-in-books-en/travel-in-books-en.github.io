@@ -1,6 +1,7 @@
 ---
 title: My Year of Rest and Relaxation by Ottessa Moshfegh
-tags: [Novel,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,America]
+categories: [Fiction Literature,Novel]
+tags: [⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,America,Novel]
 ---     
 | Title | My Year of Rest and Relaxation  |
 | Author |  Ottessa Moshfegh  |

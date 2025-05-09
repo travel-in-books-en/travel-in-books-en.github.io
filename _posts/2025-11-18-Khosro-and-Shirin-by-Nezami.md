@@ -1,6 +1,7 @@
 ---
 title: Khosro and Shirin by Nezami
-tags: [Classic,Iran,Poetry,Persian]
+categories: [Story,Poetry]
+tags: [Iran,Persian,Classic,Poetry]
 ---     
 | Title | Khosro and Shirin  |
 | Author |  Nezami  |

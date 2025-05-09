@@ -1,6 +1,7 @@
 ---
 title: The Girl With the Golden Eyes by Honore de Balzac
-tags: [Fiction Literature,France,⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10]
+categories: [Fiction Literature,Fantasy Novel]
+tags: [⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10,France,Fiction Literature]
 ---     
 | Title | The Girl With the Golden Eyes  |
 | Author |  Honore de Balzac  |

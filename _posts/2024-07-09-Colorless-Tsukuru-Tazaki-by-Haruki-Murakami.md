@@ -1,6 +1,7 @@
 ---
 title: Colorless Tsukuru Tazaki by Haruki Murakami
-tags: [Novel,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Murakami,Japan]
+categories: [Fiction Literature,Novel]
+tags: [⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,Murakami,Japan,Novel]
 ---     
 | Title | Colorless Tsukuru Tazaki  |
 | Author |  Haruki Murakami  |

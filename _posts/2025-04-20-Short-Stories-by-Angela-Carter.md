@@ -1,6 +1,7 @@
 ---
 title: Short Stories by Angela Carter
-tags: [England,Story]
+categories: [Fiction Literature,Novel]
+tags: [Story,England]
 ---     
 | Title | Short Stories  |
 | Author |  Angela Carter  |

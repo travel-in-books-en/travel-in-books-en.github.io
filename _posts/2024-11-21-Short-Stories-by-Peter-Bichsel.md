@@ -1,6 +1,7 @@
 ---
 title: Short Stories by Peter Bichsel
-tags: [Swiss,Short Story]
+categories: [Short Story,Fiction Literature]
+tags: [Short Story,Swiss]
 ---     
 | Title | Short Stories  |
 | Author |  Peter Bichsel  |

@@ -1,6 +1,7 @@
 ---
 title: Short Stories by Ottessa Moshfegh
-tags: [Russia,Story]
+categories: [Fiction Literature,Novel]
+tags: [Story,Russia]
 ---     
 | Title | Short Stories  |
 | Author |  Ottessa Moshfegh  |

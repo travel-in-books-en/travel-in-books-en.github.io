@@ -1,6 +1,7 @@
 ---
 title: The Captains Daughter by Alexander Pushkin
-tags: [Russia,Story]
+categories: [Historical Novel,Fiction Literature]
+tags: [Story,Russia]
 ---     
 | Title | The Captains Daughter  |
 | Author |  Alexander Pushkin  |

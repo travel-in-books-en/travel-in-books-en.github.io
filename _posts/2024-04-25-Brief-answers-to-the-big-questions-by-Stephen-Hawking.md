@@ -1,6 +1,7 @@
 ---
 title: Brief answers to the big questions by Stephen Hawking
-tags: [Science,Stephen Hawking,Memoir,Existence,America]
+categories: [Scientific,Nonfiction Literature]
+tags: [Stephen Hawking,Existence,America,Memoir,Science]
 ---     
 | Title | Brief answers to the big questions  |
 | Author |  Stephen Hawking  |

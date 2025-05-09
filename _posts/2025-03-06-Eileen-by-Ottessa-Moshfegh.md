@@ -1,6 +1,7 @@
 ---
 title: Eileen by Ottessa Moshfegh
-tags: [Novel,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,America]
+categories: [Fiction Literature,Novel]
+tags: [⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,America,Novel]
 ---     
 | Title | Eileen  |
 | Author |  Ottessa Moshfegh  |

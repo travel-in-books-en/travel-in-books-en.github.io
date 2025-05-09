@@ -1,5 +1,6 @@
 ---
 title: East of Eden by John Steinbeck
+categories: [Novel,Fiction Literature]
 tags: [America]
 ---     
 | Title | East of Eden  |

@@ -1,6 +1,7 @@
 ---
 title: Short Stories by Jorge Luis Borges
-tags: [Story,Borges,Argentina,Short Story]
+categories: [Short Story,Fiction Literature]
+tags: [Short Story,Argentina,Story,Borges]
 ---     
 | Title | Short Stories  |
 | Author |  Jorge Luis Borges  |
